@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+  "commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Kavindu Kariyawasam",
+      "author_email": "kkdkariyawasam@gmail.com",
+      "project_name": "autoAudioRec",
+      "package_name": "auto-audio-rec",
+      "import_name": "auto_audio_rec",
+      "description": "This will allow user to start the microphone after certain period of time and can stop the microphone with a button.",
+      "deployment_via_github_actions": "y",
+      "working_with_dataframes": "n",
+      "open_source_license": "MIT license",
+      "_template": "https://github.com/blackary/cookiecutter-streamlit-component/"
+    }
+  },
+  "directory": null
+}
